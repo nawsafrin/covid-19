@@ -1,0 +1,28 @@
+(my_env) safrin@safrin-pc:/media/safrin/data/Ubuntu/16.04-64bit/Work/Covid-19/mycode/sentiment$ ./all-run.sh
+
+covaxin
+python main.py --input=../data/20210416_175730covaxin_long_tweet
+s
+Total time taken to scrap is 0.5833333333333334 minutes.
+
+JJ
+Total time taken to scrap is 0.6666666666666666 minutes.
+Sinovac
+Total time taken to scrap is 0.43333333333333335 minutes.
+Oxford
+Total time taken to scrap is 0.26666666666666666 minutes.
+
+sputnikv
+python main.py --input=../data/sputnikv_long_tweets
+Total time taken to scrap is 0.8666666666666667 minutes.
+
+
+moderna
+python main.py --input=../data/20210416_172111moderna_long_tweet
+s
+
+Total time taken to scrap is 35.86666666666667 minutes.
+pfizer
+Total time taken to scrap is 93.13333333333334 minutes.
+(my_env) safrin@safrin-pc:/media/safrin/data/Ubuntu/16.04-64bit/Work/Covid-19/mycode/sentiment$ 
+

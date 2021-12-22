@@ -1,0 +1,15 @@
+{
+    "py/object": "config.Config",
+    "api_key": "",
+    "api_secret_key": "",
+    "access_token": "",
+    "access_token_secret": "",
+    
+    "log_level": "WARNING",
+    "restart_attempts": -1,
+    "restart_wait_secs": 10,
+    "filter_languages": ["en"],
+    "filter_keywords": "(pfizer OR Pfizer-BioNTech OR BioNTech \"pfizer\") -filter:retweets"
+        
+        
+}
